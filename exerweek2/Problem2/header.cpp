@@ -20,7 +20,6 @@ void StudentInfo::load(string infilename) {
 }
 
 void ReviewerAssigner::choose() {
-	srand(time(NULL));
 	for (int i = 0; i < rnum; ++i) {
 		int select = rand() % (len - i) + i;
 		swap(studentinfo[i], studentinfo[select]);	
@@ -36,7 +35,6 @@ void ReviewerAssigner::output(string outfilename) {
 }
 
 void TeamAssigner::assign() {
-	srand(time(NULL));
 	for (int i = 0; i < len; ++i) {
 		int select = rand() % (len - i) + i;
 		swap(studentinfo[i], studentinfo[select]);

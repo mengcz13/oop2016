@@ -26,6 +26,7 @@ class StudentInfo {
 
 class ReviewerAssigner : public StudentInfo {
 	public:
+		ReviewerAssigner() { srand(time(NULL)); }
 		void choose();
 		void output(string);
 		void set_reviewer_num(int n) { rnum = n; }
@@ -35,15 +36,8 @@ class ReviewerAssigner : public StudentInfo {
 
 class TeamAssigner : public StudentInfo {
 	public:
+		TeamAssigner() { srand(time(NULL)); }
 		void assign();
 		void output(string);
 };
-
-
-
-
-
-
-
-
 #endif

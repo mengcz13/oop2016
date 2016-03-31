@@ -16,6 +16,7 @@ struct Student {
 	string email;
 };
 
+// StudentInfo类, 存储学生信息
 class StudentInfo {
 	public:
 		void load(string);
@@ -24,6 +25,7 @@ class StudentInfo {
 		int len;
 };
 
+// ReviewerAssigner类, 继承StudentInfo并添加选择器
 class ReviewerAssigner : public StudentInfo {
 	public:
 		ReviewerAssigner() { srand(time(NULL)); }
@@ -34,6 +36,7 @@ class ReviewerAssigner : public StudentInfo {
 		int rnum;
 };
 
+// TeamAssigner类, 继承StudentInfo并添加随机置乱器
 class TeamAssigner : public StudentInfo {
 	public:
 		TeamAssigner() { srand(time(NULL)); }

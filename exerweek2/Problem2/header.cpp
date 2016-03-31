@@ -41,7 +41,7 @@ void TeamAssigner::assign() {
 	}
 }
 
-void TeamAssigner::output(string outfilename) {
+void TeamAssigner::output(string outfilename) { // 分组原则: 首先分出有3人的组, 之后单独输出可能有2人或4人的组
 	ofstream out(outfilename.c_str());
 	int teamnum = 0;
 	if (len % 3 == 2) {

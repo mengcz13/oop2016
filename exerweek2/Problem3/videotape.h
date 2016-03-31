@@ -33,10 +33,10 @@ class Videotape {
 		
 		void print();	
 	private:
-		string name;
-		int length; // Transformed to seconds
-		list<string> type;
-		int num;
-		string location;
+		string name; // 录像带名称
+		int length; // 录像带时长, 秒
+		list<string> type; // 录像带类型(爱情, 动作...)
+		int num; // 录像带库存数量
+		string location; // 录像带位置
 };
 #endif 

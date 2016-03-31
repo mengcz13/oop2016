@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
+	// 测试新建类以及设置信息
 	Videotape vt;
 	vt.set_name("The Inception");
 	vt.set_length(1, 30, 40);
@@ -12,6 +13,7 @@ int main() {
 	vt.set_location("Shelf 1A");
 	vt.print();
 
+	// 测试修改类信息
 	vt.del_type("SBSBS");
 	vt.del_type("Romantic");
 	++vt; ++vt; --vt;

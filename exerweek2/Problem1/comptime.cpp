@@ -3,6 +3,7 @@
 #include "func.h"
 using namespace std;
 
+// test_time测试运算时间函数, calc为函数指针
 double test_time(double& res, double x, double* series, int n, int algo, double (*calc)(double, double*, int, int)) {
 	clock_t start = clock();
 	for (int i = 0; i < 10000; ++i)

@@ -1,0 +1,15 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{What is OpenMP}{2}{0}{1}
+\beamer@sectionintoc {2}{Hello OpenMP}{3}{0}{2}
+\beamer@sectionintoc {3}{How OpenMP Works}{5}{0}{3}
+\beamer@sectionintoc {4}{OpenMP API Overview}{7}{0}{4}
+\beamer@sectionintoc {5}{Compiler Directives}{8}{0}{5}
+\beamer@subsectionintoc {5}{1}{Directive-name}{9}{0}{5}
+\beamer@subsectionintoc {5}{2}{Clause}{11}{0}{5}
+\beamer@sectionintoc {6}{Runtime Library Routines}{18}{0}{6}
+\beamer@sectionintoc {7}{Environment Variables}{19}{0}{7}
+\beamer@sectionintoc {8}{Examples}{20}{0}{8}
+\beamer@subsectionintoc {8}{1}{Merge Sort}{21}{0}{8}
+\beamer@subsectionintoc {8}{2}{Numeric calculation of $\pi $}{24}{0}{8}
+\beamer@sectionintoc {9}{Pros\ \&\ Cons}{26}{0}{9}
+\beamer@sectionintoc {10}{Reference}{27}{0}{10}

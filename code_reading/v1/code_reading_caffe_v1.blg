@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Arch Linux)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: code_reading_caffe_v1.aux
+The style file: ieeetr.bst
+Database file #1: code_reading_caffe.bib
+Warning--empty journal in installationguide
+Warning--empty year in installationguide
+Warning--empty journal in lecun2015lenet
+Warning--empty year in lecun2015lenet
+Warning--empty publisher in zhouzhmldeeplearning
+Warning--empty year in zhouzhmldeeplearning
+Warning--empty journal in caffebln
+Warning--empty year in caffebln
+You've used 5 entries,
+            1876 wiz_defined-function locations,
+            495 strings with 4089 characters,
+and the built_in function-call counts, 788 in all, are:
+= -- 47
+> -- 46
+< -- 0
++ -- 18
+- -- 13
+* -- 61
+:= -- 132
+add.period$ -- 2
+call.type$ -- 5
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 13
+duplicate$ -- 45
+empty$ -- 88
+format.name$ -- 13
+if$ -- 169
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 6
+newline$ -- 18
+num.names$ -- 5
+pop$ -- 33
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 9
+stack$ -- 0
+substring$ -- 0
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 8
+while$ -- 5
+width$ -- 6
+write$ -- 34
+(There were 8 warnings)

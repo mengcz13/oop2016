@@ -1,0 +1,10 @@
+\frametitle{\insertsubsection}
+^^I^^I\begin{lstlisting}[language=C++,numbers=none]
+#pragma omp parallel for schedule(static) reduction(+:sum)
+for (i = 0; i < MAXSTEP; ++i) {
+    sum = sum + FUNC((double)i/MAXSTEP);
+}\end{lstlisting}
+\begin{figure}[H]
+^^I\centering
+^^I\includegraphics[width=\linewidth]{pi.png}
+\end{figure}

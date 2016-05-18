@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/neozero/oop2016/IProjectProblem2/Problem2/Graph.cpp
+Graph.h
+/home/neozero/oop2016/IProjectProblem2/Problem2/Graph.h
+iostream
+-
+fstream
+-
+cassert
+-
+
+/home/neozero/oop2016/IProjectProblem2/Problem2/Graph.h
+vector
+-
+queue
+-
+cmath
+-
+
+/home/neozero/oop2016/IProjectProblem2/Problem2/main.cpp
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+CGAL/Delaunay_triangulation_2.h
+-
+CGAL/Triangulation_vertex_base_with_info_2.h
+-
+vector
+-
+iostream
+-
+fstream
+-
+Graph.h
+/home/neozero/oop2016/IProjectProblem2/Problem2/Graph.h
+ctime
+-
+

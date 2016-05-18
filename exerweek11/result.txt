@@ -1,0 +1,70 @@
+Source file: ./protobufsrc/plugin.cc
+int:
+KMP: 28    KR: 28
+print:
+KMP: 0    KR: 0
+char:
+KMP: 11    KR: 11
+Source file: ./protobufsrc/parser.cc
+int:
+KMP: 171    KR: 171
+print:
+KMP: 0    KR: 0
+char:
+KMP: 24    KR: 24
+Source file: ./protobufsrc/plugin.h
+int:
+KMP: 29    KR: 29
+print:
+KMP: 0    KR: 0
+char:
+KMP: 12    KR: 12
+Source file: ./protobufsrc/parser.h
+int:
+KMP: 74    KR: 74
+print:
+KMP: 0    KR: 0
+char:
+KMP: 24    KR: 24
+Source file: ./protobufsrc/main.cc
+int:
+KMP: 23    KR: 23
+print:
+KMP: 0    KR: 0
+char:
+KMP: 11    KR: 11
+Source file: ./protobufsrc/plugin.cc
+int:
+KMP: 28    KR: 28
+print:
+KMP: 0    KR: 0
+char:
+KMP: 11    KR: 11
+Source file: ./protobufsrc/parser.cc
+int:
+KMP: 171    KR: 171
+print:
+KMP: 0    KR: 0
+char:
+KMP: 24    KR: 24
+Source file: ./protobufsrc/plugin.h
+int:
+KMP: 29    KR: 29
+print:
+KMP: 0    KR: 0
+char:
+KMP: 12    KR: 12
+Source file: ./protobufsrc/parser.h
+int:
+KMP: 74    KR: 74
+print:
+KMP: 0    KR: 0
+char:
+KMP: 24    KR: 24
+Source file: ./protobufsrc/main.cc
+int:
+KMP: 23    KR: 23
+print:
+KMP: 0    KR: 0
+char:
+KMP: 11    KR: 11

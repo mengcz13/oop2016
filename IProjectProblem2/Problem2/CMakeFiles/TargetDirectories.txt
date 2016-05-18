@@ -1,0 +1,3 @@
+/home/neozero/oop2016/IProjectProblem2/Problem2/CMakeFiles/rebuild_cache.dir
+/home/neozero/oop2016/IProjectProblem2/Problem2/CMakeFiles/edit_cache.dir
+/home/neozero/oop2016/IProjectProblem2/Problem2/CMakeFiles/main.dir

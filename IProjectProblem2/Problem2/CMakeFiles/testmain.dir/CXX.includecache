@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/neozero/oop2016/IProjectProblem2/Problem2/Graph.h
+vector
+-
+queue
+-
+cmath
+-
+
+/home/neozero/oop2016/IProjectProblem2/Problem2/testmain.cpp
+Graph.h
+/home/neozero/oop2016/IProjectProblem2/Problem2/Graph.h
+vector
+-
+cmath
+-
+cstdlib
+-
+ctime
+-
+

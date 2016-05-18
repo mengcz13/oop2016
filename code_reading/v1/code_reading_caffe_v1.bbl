@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{jia2014caffe}
+Y.~Jia, E.~Shelhamer, J.~Donahue, S.~Karayev, J.~Long, R.~Girshick,
+  S.~Guadarrama, and T.~Darrell, ``Caffe: Convolutional architecture for fast
+  feature embedding,'' {\em arXiv preprint arXiv:1408.5093}, 2014.
+
+\bibitem{installationguide}
+http://caffe.berkeleyvision.org/installation.html, ``Installation,''
+
+\bibitem{lecun2015lenet}
+Y.~LeCun {\em et~al.}, ``Lenet-5, convolutional neural networks,''
+
+\bibitem{zhouzhmldeeplearning}
+Z.~Zhou, {\em Machine Learning}.
+
+\bibitem{caffebln}
+http://caffe.berkeleyvision.org/tutorial/net\_layer\_blob.html, ``Blobs,
+  layers, and nets: anatomy of a caffe model,''
+
+\end{thebibliography}
